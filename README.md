@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SeriousRocket52
-- 👀 I’m interested in Unity game development
-- 🌱 I’m currently learning game development with C# and Unity
-- 💞️ I’m looking to collaborate on Unity projects
+- 👀 I’m interested in VEX V5 robot development
+- 🌱 I’m currently learning python
 
 <!---
 SeriousRocket52/SeriousRocket52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
